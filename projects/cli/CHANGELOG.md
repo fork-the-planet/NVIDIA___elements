@@ -1,3 +1,12 @@
+## <small>0.0.11 (2026-05-08)</small>
+
+* chore(ci): add knip configuration for unused dep linting ([1d039cd](https://github.com/NVIDIA/elements/commit/1d039cd))
+* chore(ci): improve codex support ([38c429f](https://github.com/NVIDIA/elements/commit/38c429f))
+* chore(ci): update pnpm and node ([26aba55](https://github.com/NVIDIA/elements/commit/26aba55))
+* chore(release): @nvidia-elements/core-v0.1.0 [skip ci] ([594d1d2](https://github.com/NVIDIA/elements/commit/594d1d2))
+* fix(cli): improve context ([7ca3fa6](https://github.com/NVIDIA/elements/commit/7ca3fa6))
+* feat(core): add nve-format-number component ([d49ec24](https://github.com/NVIDIA/elements/commit/d49ec24))
+
 ## <small>0.0.10 (2026-05-04)</small>
 
 * fix(cli): improved migration context ([771e194](https://github.com/NVIDIA/elements/commit/771e194))
