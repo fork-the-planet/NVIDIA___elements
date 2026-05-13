@@ -1,3 +1,24 @@
+## <small>0.0.12 (2026-05-13)</small>
+
+* chore(media): package metadata ([a7b3b7a](https://github.com/NVIDIA/elements/commit/a7b3b7a))
+* chore(release): @nvidia-elements/code-v0.0.9 [skip ci] ([098029d](https://github.com/NVIDIA/elements/commit/098029d))
+* chore(release): @nvidia-elements/core-v0.1.1 [skip ci] ([b519690](https://github.com/NVIDIA/elements/commit/b519690))
+* chore(release): @nvidia-elements/forms-v0.0.8 [skip ci] ([2d04bfd](https://github.com/NVIDIA/elements/commit/2d04bfd))
+* chore(release): @nvidia-elements/lint-v0.3.1 [skip ci] ([b3c65cc](https://github.com/NVIDIA/elements/commit/b3c65cc))
+* chore(release): @nvidia-elements/styles-v0.0.9 [skip ci] ([bd4ec9f](https://github.com/NVIDIA/elements/commit/bd4ec9f))
+* chore(release): @nvidia-elements/themes-v0.0.10 [skip ci] ([3a402bc](https://github.com/NVIDIA/elements/commit/3a402bc))
+* chore(starters): package metadata ([7dff9c9](https://github.com/NVIDIA/elements/commit/7dff9c9))
+* fix(cli): package metadata ([2ebfca5](https://github.com/NVIDIA/elements/commit/2ebfca5))
+* fix(code): package metadata ([ffb19c5](https://github.com/NVIDIA/elements/commit/ffb19c5))
+* fix(core): package metadata ([bbd8b8c](https://github.com/NVIDIA/elements/commit/bbd8b8c))
+* fix(create): package metadata ([0cbaadc](https://github.com/NVIDIA/elements/commit/0cbaadc))
+* fix(forms): package metadata ([1182721](https://github.com/NVIDIA/elements/commit/1182721))
+* fix(lint): package metadata ([b5785fb](https://github.com/NVIDIA/elements/commit/b5785fb))
+* fix(markdown): package metadata ([c322cd5](https://github.com/NVIDIA/elements/commit/c322cd5))
+* fix(monaco): package metadata ([ebe24ce](https://github.com/NVIDIA/elements/commit/ebe24ce))
+* fix(styles): package metadata ([16675f2](https://github.com/NVIDIA/elements/commit/16675f2))
+* fix(themes): package metadata ([83b2273](https://github.com/NVIDIA/elements/commit/83b2273))
+
 ## <small>0.0.11 (2026-05-08)</small>
 
 * chore(ci): add knip configuration for unused dep linting ([1d039cd](https://github.com/NVIDIA/elements/commit/1d039cd))
