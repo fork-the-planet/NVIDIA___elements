@@ -1,3 +1,12 @@
+## 0.1.0 (2026-05-13)
+
+* feat(cli): add multiple version detection ([c98786a](https://github.com/NVIDIA/elements/commit/c98786a))
+* feat(cli): support cli skills ([41eb7c9](https://github.com/NVIDIA/elements/commit/41eb7c9))
+* chore(ci): update agent configurations ([cbd664c](https://github.com/NVIDIA/elements/commit/cbd664c))
+* chore(release): @nvidia-elements/create-v0.0.8 [skip ci] ([bfcb1fc](https://github.com/NVIDIA/elements/commit/bfcb1fc))
+* chore(release): @nvidia-elements/markdown-v0.0.9 [skip ci] ([a321984](https://github.com/NVIDIA/elements/commit/a321984))
+* chore(release): @nvidia-elements/monaco-v0.0.11 [skip ci] ([a076aee](https://github.com/NVIDIA/elements/commit/a076aee))
+
 ## <small>0.0.12 (2026-05-13)</small>
 
 * chore(media): package metadata ([a7b3b7a](https://github.com/NVIDIA/elements/commit/a7b3b7a))
