@@ -1,3 +1,9 @@
+## <small>0.2.2 (2026-05-21)</small>
+
+* chore(release): @nvidia-elements/core-v0.1.4 [skip ci] ([8b9d251](https://github.com/NVIDIA/elements/commit/8b9d251))
+* fix(cli): binary version support ([39106f1](https://github.com/NVIDIA/elements/commit/39106f1))
+* fix(core): remove postinstall ([4818481](https://github.com/NVIDIA/elements/commit/4818481))
+
 ## <small>0.2.1 (2026-05-21)</small>
 
 * fix(cli): handle command args ([0f526e0](https://github.com/NVIDIA/elements/commit/0f526e0))
