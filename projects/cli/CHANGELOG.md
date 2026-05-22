@@ -1,3 +1,7 @@
+## <small>0.2.3 (2026-05-22)</small>
+
+* fix(cli): broken default binary path ([368e6fe](https://github.com/NVIDIA/elements/commit/368e6fe))
+
 ## <small>0.2.2 (2026-05-21)</small>
 
 * chore(release): @nvidia-elements/core-v0.1.4 [skip ci] ([8b9d251](https://github.com/NVIDIA/elements/commit/8b9d251))
