@@ -1,3 +1,10 @@
+## <small>0.2.1 (2026-05-29)</small>
+
+* chore(ci): improve workflow default permissions ([878bafb](https://github.com/NVIDIA/elements/commit/878bafb))
+* chore(core): test coverage ([f2da970](https://github.com/NVIDIA/elements/commit/f2da970))
+* chore(docs): improve docs metadata ([00da961](https://github.com/NVIDIA/elements/commit/00da961))
+* fix(core): cleanup timeout on popover close ([a3c1448](https://github.com/NVIDIA/elements/commit/a3c1448))
+
 ## 0.2.0 (2026-05-28)
 
 * chore(lint): add combobox api check ([71a34ef](https://github.com/NVIDIA/elements/commit/71a34ef))
