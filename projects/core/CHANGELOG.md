@@ -1,3 +1,7 @@
+## <small>0.2.2 (2026-06-03)</small>
+
+* fix(core): chrome scoped registry and popover behavior ([e8bb66c](https://github.com/NVIDIA/elements/commit/e8bb66c))
+
 ## <small>0.2.1 (2026-05-29)</small>
 
 * chore(ci): improve workflow default permissions ([878bafb](https://github.com/NVIDIA/elements/commit/878bafb))
