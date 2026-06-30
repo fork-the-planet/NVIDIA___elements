@@ -1,3 +1,7 @@
+## <small>2.1.2 (2026-06-30)</small>
+
+* fix(cli): correct metadata description length limit ([1682f8d](https://github.com/NVIDIA/elements/commit/1682f8d))
+
 ## <small>2.1.1 (2026-06-30)</small>
 
 * fix(cli): version and updater checks ([e6979e0](https://github.com/NVIDIA/elements/commit/e6979e0))
