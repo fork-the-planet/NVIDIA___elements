@@ -1,3 +1,7 @@
+## <small>2.1.3 (2026-06-30)</small>
+
+* fix(cli): correct case sensitive identifiers ([6c8cd2b](https://github.com/NVIDIA/elements/commit/6c8cd2b))
+
 ## <small>2.1.2 (2026-06-30)</small>
 
 * fix(cli): correct metadata description length limit ([1682f8d](https://github.com/NVIDIA/elements/commit/1682f8d))
