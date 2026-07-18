@@ -1,3 +1,15 @@
+## <small>2.0.3 (2026-07-18)</small>
+
+* chore(ci): improve test coverage ([4ef2eb3](https://github.com/NVIDIA/elements/commit/4ef2eb3))
+* chore(ci): update lighthouse ([4bffdb2](https://github.com/NVIDIA/elements/commit/4bffdb2))
+* chore(ci): update stylelint to version ([522e1c4](https://github.com/NVIDIA/elements/commit/522e1c4))
+* chore(ci): upgrade built to ts7 rc ([77117a1](https://github.com/NVIDIA/elements/commit/77117a1))
+* chore(release): @nvidia-elements/core-v2.0.4 [skip ci] ([d91da36](https://github.com/NVIDIA/elements/commit/d91da36))
+* feat(core): gauge ([70e115d](https://github.com/NVIDIA/elements/commit/70e115d))
+* feat(styles): add grow option for nve-text ([0b895ff](https://github.com/NVIDIA/elements/commit/0b895ff))
+* fix(docs): enhance decorator transpilation ([a08584b](https://github.com/NVIDIA/elements/commit/a08584b))
+* fix(forms): export controller ([1808462](https://github.com/NVIDIA/elements/commit/1808462))
+
 ## <small>2.0.2 (2026-07-08)</small>
 
 * fix(cli): correct case sensitive identifiers ([6c8cd2b](https://github.com/NVIDIA/elements/commit/6c8cd2b))
